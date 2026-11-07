@@ -20,7 +20,7 @@
 
 ## 👋 About me
 
-I've spent 15+ years making commercial enterprise software trustworthy, first as a System Verification Tester at IBM, then as a Senior Software Engineer at HCLTech building test frameworks, and release quality for commercially shipped enterprise products.
+I've spent 10+ years making commercial enterprise software trustworthy, first as a System Verification Tester at IBM, then as a Senior Software Engineer at HCLTech building test frameworks, and release quality for commercially shipped enterprise products.
 
 Now I bring that same discipline to AI systems: agents that call real tools, follow business rules and are tested like production software, not demos.
 
