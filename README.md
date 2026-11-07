@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/daimarh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=680&lines=15%2B+years+making+enterprise+software+trustworthy;From+testing+systems+to+building+AI+agents;LangGraph+%E2%80%A2+Claude+API+%E2%80%A2+MCP+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=I%27ve+spent+10%2B+years+making+enterprise+software+trustworthy;From+testing+systems+to+building+AI+agents;LangGraph+%E2%80%A2+Claude+API+%E2%80%A2+MCP+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD" alt="Typing intro" />
   </a>
 </p>
 
