@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Daimar%20Hernandez&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=System%20Verification%20%E2%86%92%20SDET%20%E2%86%92%20AI%20Practitioner&descSize=18&descAlignY=58" alt="Daimar Hernandez banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Daimar%20Hernandez&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=System%20Verification%20%E2%86%92%20SDET%20%E2%86%92%20&descSize=18&descAlignY=58" alt="Daimar Hernandez banner" />
 </p>
 
 <p align="center">
